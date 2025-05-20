@@ -219,16 +219,16 @@
     "id": "extasset",
     "fields": [
       {
-        "component": "reference",
+        "component": "extimgref",
         "valueType": "string",
-        "name": "image",
+        "name": "ximage",
         "label": "Image",
         "multi": false
       },
       {
         "component": "text",
         "valueType": "string",
-        "name": "imageAlt",
+        "name": "ximageAlt",
         "label": "Alt",
         "value": ""
       }

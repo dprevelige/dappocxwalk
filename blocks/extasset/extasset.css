@@ -1,11 +1,11 @@
-.block.extasset {
+.block.ext-asset {
     background-color: #CCC;
     padding: 0 0 24px;
     display: flex;
     flex-direction: column;
     margin: 1rem 0;
 }
-.block.extasset .notneeded {
+.block.ext-asset .notneeded {
     border: 1px solid red;
     margin: 12px;
 }
