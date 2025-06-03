@@ -2,9 +2,11 @@
   "mappings": [
     "/content/nikepoc/:/",
     "/content/nikepoc/configuration:/.helix/config.json",
-    "/content/nikepoc/metadata:/metadata.json"
+    "/content/nikepoc/metadata:/metadata.json",
+    "/content/dam/wknd/en/magazine/skitouring/:/en/magazine/skitouring/"
   ],
   "includes": [
-    "/content/nikepoc/"
+    "/content/nikepoc/",
+    "/content/dam/wknd/en/magazine/skitouring"
   ]
 }
