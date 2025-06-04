@@ -1,6 +1,7 @@
 {
   "mappings": [
     "/content/nikepoc/:/",
+    "/content/dam/nikepoc/:/assets/",
     "/content/nikepoc/configuration:/.helix/config.json",
     "/content/nikepoc/metadata:/metadata.json"
   ],
